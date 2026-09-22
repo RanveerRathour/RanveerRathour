@@ -2,7 +2,7 @@
 <h3 align="center">Senior Flutter Developer · Mobile Engineer (Android & iOS)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ranveerrathour"><img src="https://img.shields.io/badge/LinkedIn-ranveerrathour-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ranveer-rathour-flutter-dev/"><img src="https://img.shields.io/badge/LinkedIn-ranveer--rathour--flutter--dev-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:work.ranveerrathour@gmail.com"><img src="https://img.shields.io/badge/Email-work.ranveerrathour%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-555?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
