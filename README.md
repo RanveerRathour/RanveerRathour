@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ranveer Rathour 👋</h1>
-<h3 align="center">Senior Flutter Developer · Mobile Engineer (Android & iOS)</h3>
+<h3 align="center">Flutter Developer · Mobile Engineer (Android & iOS)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ranveer-rathour-flutter-dev/"><img src="https://img.shields.io/badge/LinkedIn-ranveer--rathour--flutter--dev-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
